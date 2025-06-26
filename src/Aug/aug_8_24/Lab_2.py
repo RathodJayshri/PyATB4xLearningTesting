@@ -5,9 +5,9 @@ X = [1,2,3,4,5,6,7]
 X1 = []
 X2 = []
 
-for  i in range(len(X)):
+for i in range(len(X)):
 
-    if i%2==0:
+    if i%2 == 0:
 
         X1.append(X[i]+2)
     else:
